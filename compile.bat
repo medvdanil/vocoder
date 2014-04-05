@@ -1,0 +1,1 @@
+g++ vocoder.cpp fft.h -O3 -o vocoder.exe

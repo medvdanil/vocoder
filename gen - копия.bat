@@ -1,0 +1,2 @@
+vocoder.exe -0 sampleout.wav 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
+sampleout.wav
